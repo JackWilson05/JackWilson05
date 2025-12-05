@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackWilson05 connect with me on [LI](www.linkedin.com/in/jackw6/) 
+- 👋 Hi, I’m @JackWilson05 connect with me on LI [here](www.linkedin.com/in/jackw6/) 
 - 🧠 I’m interested in LLMs and Artificial Intelligence
 - 🌱 I’m currently doing computer vision research, and switching into work on knowledge graphs with educational applications.
 
